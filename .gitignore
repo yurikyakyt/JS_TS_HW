@@ -1,0 +1,10 @@
+*
+
+!src/
+!src/**/*
+
+!package*.json
+
+!.prettier*
+
+!.gitignore
